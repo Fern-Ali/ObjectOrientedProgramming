@@ -3,7 +3,7 @@
 // object orientation challenge
 
 
-const raceResults = ([first, second, third, ...rest]) => ({ first, second, third, rest });
+
 
 class Vehicle {
     constructor(make, model, year) {
